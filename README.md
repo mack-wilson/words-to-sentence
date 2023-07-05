@@ -1,5 +1,4 @@
-# words-to-sentence
-Welcome to my first original mid-sized project. I hope I'm not biting off more than I can chew.
+# Welcome to my first original mid-sized project. I hope I'm not biting off more than I can chew.
 
 When this program is executed, the user will be asked to provide three of their 'favourite' verb, noun, and adjective.
 These three words will need to be separate by a comma (and, a space).
@@ -14,17 +13,16 @@ v1.1: Check for proper English words in input
 v2: Incorporate NLP for sentence generation
 
 
-## Potential future requirements on the words include:
-##    a) Must be a proper English word ##contrast with dictionary?
-##    b) Lose the requirement for a noun, verb, and adjective
-##        Alternately, just add a check/proof of noun/verb/adjective?
-##    c) Others?
+##Potential future requirements on the words include:
+    a) Must be a proper English word ##contrast with dictionary?
+    b) Lose the requirement for a noun, verb, and adjective
+        Alternately, just add a check/proof of noun/verb/adjective?
+    c) Others?
 
-
-# Potential future structure, function of this program:
-##    a) NLP to evaluate words and create sentences
-##    b) Random mixing, correcting of inputted words
-##    c) Enforced criteria
+##Potential future structure, function of this program:
+    a) NLP to evaluate words and create sentences
+    b) Random mixing, correcting of inputted words
+    c) Enforced criteria
 
 I'll approach with this strategy:
 
