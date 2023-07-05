@@ -1,5 +1,5 @@
 # words-to-sentence
-/n Welcome to my first original mid-sized project. I hope I'm not biting off more than I can chew./n
+/n Welcome to my first original mid-sized project. I hope I'm not biting off more than I can chew.n/
 
 When this program is executed, the user will be asked to provide three of their 'favourite' verb, noun, and adjective.
 These three words will need to be separate by a comma (and, a space).
