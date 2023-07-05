@@ -21,7 +21,7 @@ v2: Incorporate NLP for sentence generation
 ##    c) Others?
 
 
-## Potential future structure, function of this program:
+# Potential future structure, function of this program:
 ##    a) NLP to evaluate words and create sentences
 ##    b) Random mixing, correcting of inputted words
 ##    c) Enforced criteria
